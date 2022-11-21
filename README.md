@@ -83,3 +83,5 @@ public ActionResult Logout()
     return RedirectToAction("Login");
 }
  ```
+ 
+ REFERENCE : https://arunendapally.com/post/implementation-of-single-sign-on-(sso)-in-asp.net-mvc
